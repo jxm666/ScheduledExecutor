@@ -1,4 +1,4 @@
-# regenneration
+# ScheduledExecutor
 java.util.concurrent.ScheduledExecutorService 类使用
 定时执行任务，间隔执行任务。
 
